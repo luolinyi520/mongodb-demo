@@ -1,0 +1,7 @@
+# 单机连接
+spring:
+  data:
+    mongodb:
+      database: bigdata
+      authentication-database: admin
+      uri: mongodb://root:123456@192.168.88.63:27017
